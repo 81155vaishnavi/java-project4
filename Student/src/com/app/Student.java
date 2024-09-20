@@ -23,6 +23,9 @@ public class Student {
 	    System.out.println("main mathod");
 	}
 	
-	
+	public void m1()
+	{
+		System.out.println("This is m1 method");
+	}
 
 }
